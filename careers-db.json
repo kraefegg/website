@@ -1,0 +1,1022 @@
+{
+  "jobs": [
+    {
+      "id": "ph-ai-eng",
+      "title": "AI Solutions & Systems Engineer",
+      "titleEn": "AI Solutions & Systems Engineer",
+      "department": "Inteligência Artificial & Agentes Autônomos",
+      "division": "PentaHydra Systems",
+      "category": "PENTAHYDRA SYSTEMS",
+      "location": "São Paulo, SP / Remoto Internacional",
+      "work_mode": "REMOTE",
+      "employment_type": "FULL_TIME",
+      "seniority": "SENIOR",
+      "description": "Engenharia de sistemas de IA generativa, orquestração de agentes autônomos industriais e pipelines RAG com dados de sensoriamento remoto e telemetria física.",
+      "descriptionEn": "Generative AI systems engineering, autonomous industrial agent orchestration, and RAG pipelines integrating remote sensing and physical telemetry.",
+      "responsibilities": [
+        "Arquitetação e implantação de pipelines de RAG com cross-encoders e grafos de conhecimento.",
+        "Desenvolvimento de agentes autônomos com State Machines determinísticas (LangGraph/FSM) e guardrails para processos industriais.",
+        "Otimização de inferência com PagedAttention, INT8/FP8 quantization e integração de APIs de LLM server-side.",
+        "Validação de fidelidade de respostas técnicas e mitigação ativa de alucinações factuais."
+      ],
+      "requirements": [
+        "Graduação ou pós-graduação em Ciência da Computação, Engenharia de Software ou correlatas.",
+        "5+ anos de experiência em desenvolvimento de software com Python e TypeScript.",
+        "Domínio avançado de arquiteturas de LLMs, embeddings densos e Function Calling.",
+        "Experiência em esteiras MLOps e observabilidade de modelos em produção."
+      ],
+      "preferred_skills": [
+        "Neo4j / GraphRAG",
+        "Docker/Kubernetes",
+        "NVIDIA TensorRT",
+        "LangGraph"
+      ],
+      "technical_skills": [
+        "Python",
+        "TypeScript",
+        "RAG",
+        "Vector Databases",
+        "Prompt Engineering",
+        "FastAPI"
+      ],
+      "education_required": "Bacharelado ou Mestrado em Computação / Engenharia",
+      "assessment_profile": "AI_ENGINEERING",
+      "assessment_threshold": 70,
+      "status": "OPEN",
+      "is_demo": true,
+      "created_at": "2026-03-01T10:00:00.000Z",
+      "updated_at": "2026-09-14T10:00:00.000Z"
+    },
+    {
+      "id": "ph-genai-eng",
+      "title": "Generative AI & Prompt Engineer Specialist",
+      "titleEn": "Generative AI & Prompt Engineer Specialist",
+      "department": "Modelos Fundamentais & Avaliação",
+      "division": "PentaHydra Systems",
+      "category": "PENTAHYDRA SYSTEMS",
+      "location": "Belo Horizonte, MG / Remoto",
+      "work_mode": "REMOTE",
+      "employment_type": "FULL_TIME",
+      "seniority": "SPECIALIST",
+      "description": "Especialista em Prompt Engineering sistemático, avaliação automatizada LLM-as-a-Judge, estruturação de gramáticas de saída (JSON Schema) e mitigação de vulnerabilidades de Prompt Injection.",
+      "descriptionEn": "Specialist in systematic Prompt Engineering, automated LLM-as-a-Judge evaluation, guided decoding schemas, and prompt injection mitigation.",
+      "responsibilities": [
+        "Construção de frameworks de Prompt Engineering sistemáticos (Chain-of-Thought, ReAct, Self-Consistency).",
+        "Implementação de pipelines de avaliação contínua com rubricas de julgamento e benchmarks empíricos.",
+        "Blindagem de prompts contra ataques de injeção direta e indireta em processamento de documentos corporativos.",
+        "Desenvolvimento de interfaces conversacionais multimodais orientadas a engenharia."
+      ],
+      "requirements": [
+        "Experiência comprovada em engenharia de prompts avançada e fine-tuning com PEFT/LoRA.",
+        "Conhecimento sólido de avaliação estatística e métricas semânticas.",
+        "Fluência em Python e bibliotecas modernas de IA (@google/genai, HuggingFace)."
+      ],
+      "preferred_skills": [
+        "LLM-as-a-Judge",
+        "Few-Shot Calibration",
+        "Semantic Routing",
+        "Prompt Security"
+      ],
+      "technical_skills": [
+        "Prompt Engineering",
+        "Python",
+        "JSON Schema",
+        "Model Evaluation",
+        "Security Guardrails"
+      ],
+      "education_required": "Graduação em Engenharia, Ciência da Computação ou Matemática Aplicada",
+      "assessment_profile": "GEN_AI",
+      "assessment_threshold": 70,
+      "status": "OPEN",
+      "is_demo": true,
+      "created_at": "2026-03-05T14:00:00.000Z",
+      "updated_at": "2026-09-14T10:00:00.000Z"
+    },
+    {
+      "id": "ph-data-eng",
+      "title": "Senior Data Platform & Graph Engineer",
+      "titleEn": "Senior Data Platform & Graph Engineer",
+      "department": "Data Architecture & Analytics",
+      "division": "PentaHydra Systems",
+      "category": "PENTAHYDRA SYSTEMS",
+      "location": "Curitiba, PR / Híbrido",
+      "work_mode": "HYBRID",
+      "employment_type": "FULL_TIME",
+      "seniority": "SENIOR",
+      "description": "Construção de data lakehouses industriais na arquitetura Medallion, pipelines de streaming com Kafka/Flink e modelagem de grafos com Neo4j para cadeias ambientais e de mineração.",
+      "descriptionEn": "Industrial data lakehouse engineering under Medallion architecture, Kafka/Flink streaming, and Neo4j graph modeling for environmental and mining networks.",
+      "responsibilities": [
+        "Desenho de arquitetura Medallion (Bronze/Silver/Gold) e modelagem dimensional e de grafos.",
+        "Desenvolvimento de pipelines de ingestão de telemetria IoT com semântica exactly-once.",
+        "Implementação de governança de dados com OpenLineage e observabilidade estatística de data drift.",
+        "Otimização de consultas analíticas e queries Cypher para grandes volumes de dados georreferenciados."
+      ],
+      "requirements": [
+        "5+ anos de experiência comprovada em Data Engineering corporativo.",
+        "Domínio avançado de SQL, Python, Apache Spark/Flink e Apache Kafka.",
+        "Experiência sólida com bancos de grafos (Neo4j/Cypher) e data lakehouses (Delta Lake/Iceberg)."
+      ],
+      "preferred_skills": [
+        "Neo4j",
+        "Delta Lake",
+        "OpenLineage",
+        "Apache Flink",
+        "dbt"
+      ],
+      "technical_skills": [
+        "SQL",
+        "Python",
+        "Neo4j",
+        "Apache Spark",
+        "Kafka",
+        "Lakehouse"
+      ],
+      "education_required": "Graduação em Computação, Sistemas de Informação ou Engenharia",
+      "assessment_profile": "DATA",
+      "assessment_threshold": 70,
+      "status": "OPEN",
+      "is_demo": true,
+      "created_at": "2026-03-10T09:30:00.000Z",
+      "updated_at": "2026-09-14T10:00:00.000Z"
+    },
+    {
+      "id": "ph-cyber-eng",
+      "title": "Industrial Cybersecurity & OT Security Architect",
+      "titleEn": "Industrial Cybersecurity & OT Security Architect",
+      "department": "Cibersegurança & Infraestrutura Crítica",
+      "division": "PentaHydra Systems",
+      "category": "PENTAHYDRA SYSTEMS",
+      "location": "São Paulo, SP / Híbrido",
+      "work_mode": "HYBRID",
+      "employment_type": "FULL_TIME",
+      "seniority": "LEAD",
+      "description": "Liderança de cibersegurança para redes industriais SCADA/OT baseada na norma ISA/IEC 62443, segmentação Zero Trust, resposta a incidentes e proteção de sistemas ciberfísicos.",
+      "descriptionEn": "Cybersecurity leadership for industrial SCADA/OT networks aligned with ISA/IEC 62443, Zero Trust segmentation, and cyber-physical protection.",
+      "responsibilities": [
+        "Definição de zonas e conduítes no modelo Purdue (ISA-95/IEC 62443) em plantas industriais e usinas.",
+        "Implementação de inspeção profunda de pacotes (DPI) para protocolos Modbus, DNP3 e OPC UA.",
+        "Gestão de vulnerabilidades de cadeia de suprimentos com SBOM e conformidade SLSA.",
+        "Condução de auditorias de postura de segurança e planos de resposta a incidentes críticos."
+      ],
+      "requirements": [
+        "7+ anos em Segurança da Informação com foco explícito em redes industriais (OT/ICS).",
+        "Certificações de mercado reconhecidas (CISSP, GICSP, ISA/IEC 62443 Specialist ou equivalente).",
+        "Profundo conhecimento de protocolos industriais e arquiteturas Zero Trust."
+      ],
+      "preferred_skills": [
+        "IEC 62443",
+        "SCADA Security",
+        "Zero Trust",
+        "Industrial Firewalls",
+        "Threat Hunting"
+      ],
+      "technical_skills": [
+        "OT Security",
+        "Network Security",
+        "Firewalls",
+        "Zero Trust",
+        "Incident Response"
+      ],
+      "education_required": "Graduação em Engenharia Elétrica, Redes de Computadores ou Ciência da Computação",
+      "assessment_profile": "CYBERSECURITY",
+      "assessment_threshold": 70,
+      "status": "OPEN",
+      "is_demo": true,
+      "created_at": "2026-03-12T11:00:00.000Z",
+      "updated_at": "2026-09-14T10:00:00.000Z"
+    },
+    {
+      "id": "ph-emb-eng",
+      "title": "Embedded Systems & Firmware Engineer",
+      "titleEn": "Embedded Systems & Firmware Engineer",
+      "department": "Hardware & Sistemas Embarcados",
+      "division": "PentaHydra Systems",
+      "category": "PENTAHYDRA SYSTEMS",
+      "location": "Campinas, SP / Presencial",
+      "work_mode": "ONSITE",
+      "employment_type": "FULL_TIME",
+      "seniority": "MID_LEVEL",
+      "description": "Desenvolvimento de firmware em C/C++ e Rust para microcontroladores ARM Cortex-M e ESP32 em nós de telemetria ambiental ultra-low-power, estações oceanográficas e instrumentação de campo.",
+      "descriptionEn": "Firmware development in C/C++ and Rust for ARM Cortex-M and ESP32 in ultra-low-power environmental telemetry, oceanographic buoys, and field instruments.",
+      "responsibilities": [
+        "Desenvolvimento de firmware em C/C++ e Rust com FreeRTOS / Zephyr.",
+        "Otimização de consumo energético (Deep Sleep, duty cycling, gerenciamento de energia solar).",
+        "Implementação de stacks de comunicação RS-485, Modbus RTU, LoRaWAN e satelital.",
+        "Desenvolvimento de mecanismos seguros de FOTA (Dual-Bank Flash e verificação criptográfica)."
+      ],
+      "requirements": [
+        "3+ anos de experiência prática com desenvolvimento de firmware para microcontroladores.",
+        "Domínio de barramentos seriais (I2C, SPI, UART, RS-485) e osciloscópios/analisadores lógicos.",
+        "Experiência comprovada com RTOS em aplicações comerciais ou industriais."
+      ],
+      "preferred_skills": [
+        "FreeRTOS",
+        "Zephyr RTOS",
+        "LoRaWAN",
+        "Rust for Embedded",
+        "KiCad"
+      ],
+      "technical_skills": [
+        "C",
+        "C++",
+        "Rust",
+        "RTOS",
+        "Microcontrollers",
+        "RS-485",
+        "Hardware Debugging"
+      ],
+      "education_required": "Graduação em Engenharia Eletrônica, Mecatrônica ou Computação",
+      "assessment_profile": "EMBEDDED",
+      "assessment_threshold": 70,
+      "status": "OPEN",
+      "is_demo": true,
+      "created_at": "2026-03-15T08:00:00.000Z",
+      "updated_at": "2026-09-14T10:00:00.000Z"
+    },
+    {
+      "id": "ph-edge-eng",
+      "title": "Edge AI & Computer Vision Specialist",
+      "titleEn": "Edge AI & Computer Vision Specialist",
+      "department": "Borda Inteligente & Visão Computacional",
+      "division": "PentaHydra Systems",
+      "category": "PENTAHYDRA SYSTEMS",
+      "location": "Florianópolis, SC / Híbrido",
+      "work_mode": "HYBRID",
+      "employment_type": "FULL_TIME",
+      "seniority": "SENIOR",
+      "description": "Implantação de modelos de visão computacional otimizados (YOLO, Vision Transformers) e bioacústica na borda com NVIDIA Jetson, TensorRT e pipelines DeepStream para monitoramento ambiental e portuário.",
+      "descriptionEn": "Deployment of optimized vision models (YOLO, ViTs) and bioacoustics on edge devices using NVIDIA Jetson, TensorRT, and DeepStream pipelines.",
+      "responsibilities": [
+        "Quantização (PTQ/QAT) e compilação de modelos com TensorRT para inferência INT8 em aceleradores de borda.",
+        "Desenvolvimento de pipelines de visão com NVIDIA DeepStream e GStreamer.",
+        "Treinamento e calibração de modelos de detecção de manchas de óleo, fogo e bioacústica de fauna.",
+        "Gerenciamento térmico e confiabilidade de dispositivos Edge em ambientes industriais IP67."
+      ],
+      "requirements": [
+        "4+ anos de experiência com Visão Computacional e Deep Learning.",
+        "Domínio de plataformas NVIDIA Jetson (Orin/Nano) e ferramentas de otimização TensorRT/ONNX.",
+        "Sólida experiência em C++ e Python aplicados a processamento de vídeo em tempo real."
+      ],
+      "preferred_skills": [
+        "DeepStream SDK",
+        "TensorRT",
+        "Bioacoustics",
+        "YOLOv10/v11",
+        "OpenCV C++"
+      ],
+      "technical_skills": [
+        "Computer Vision",
+        "TensorRT",
+        "Edge Computing",
+        "PyTorch",
+        "C++",
+        "DeepStream"
+      ],
+      "education_required": "Graduação ou Pós-graduação em Engenharia, Computação ou IA",
+      "assessment_profile": "EDGE_AI",
+      "assessment_threshold": 70,
+      "status": "OPEN",
+      "is_demo": true,
+      "created_at": "2026-03-18T16:00:00.000Z",
+      "updated_at": "2026-09-14T10:00:00.000Z"
+    },
+    {
+      "id": "ph-soft-eng",
+      "title": "Full-Stack Systems & Cloud Engineer",
+      "titleEn": "Full-Stack Systems & Cloud Engineer",
+      "department": "Sistemas Digitais & Plataformas Web",
+      "division": "PentaHydra Systems",
+      "category": "PENTAHYDRA SYSTEMS",
+      "location": "São Paulo, SP / Remoto",
+      "work_mode": "REMOTE",
+      "employment_type": "FULL_TIME",
+      "seniority": "SENIOR",
+      "description": "Desenvolvimento de sistemas digitais críticos, arquiteturas distribuídas com microsserviços, CQRS, dashboards de engenharia em tempo real e APIs de alta confiabilidade.",
+      "descriptionEn": "Full-stack engineering of mission-critical systems, distributed microservices, CQRS architectures, real-time engineering dashboards, and resilient APIs.",
+      "responsibilities": [
+        "Desenvolvimento de aplicações corporativas com TypeScript, Node.js/Express e React.",
+        "Implementação de arquiteturas orientadas a eventos (Event-Driven) e microsserviços com resiliência.",
+        "Modelagem e otimização de bancos relacionais e NoSQL.",
+        "Criação de interfaces de dados analíticos com foco em densidade de informação e ergonomia de uso."
+      ],
+      "requirements": [
+        "5+ anos de experiência como Full-Stack Developer em sistemas escaláveis.",
+        "Domínio avançado de TypeScript, Node.js, React e bancos de dados relacionais.",
+        "Experiência em CI/CD, testes automatizados e boas práticas de arquitetura de software."
+      ],
+      "preferred_skills": [
+        "TypeScript",
+        "Node.js",
+        "React",
+        "Tailwind CSS",
+        "Docker",
+        "PostgreSQL"
+      ],
+      "technical_skills": [
+        "Full-Stack",
+        "TypeScript",
+        "Node.js",
+        "React",
+        "APIs",
+        "Architecture"
+      ],
+      "education_required": "Graduação em Computação, Engenharia ou área técnica correlata",
+      "assessment_profile": "SOFTWARE",
+      "assessment_threshold": 70,
+      "status": "OPEN",
+      "is_demo": true,
+      "created_at": "2026-03-20T10:00:00.000Z",
+      "updated_at": "2026-09-14T10:00:00.000Z"
+    },
+    {
+      "id": "ph-sys-analyst",
+      "title": "Digital Systems & Automation Analyst",
+      "titleEn": "Digital Systems & Automation Analyst",
+      "department": "Automação & Integração de Sistemas",
+      "division": "PentaHydra Systems",
+      "category": "PENTAHYDRA SYSTEMS",
+      "location": "Goiânia, GO / Híbrido",
+      "work_mode": "HYBRID",
+      "employment_type": "FULL_TIME",
+      "seniority": "MID_LEVEL",
+      "description": "Integração de sistemas SCADA industriais, controladores lógicos programáveis (PLCs), protocolos de automação e barramentos de mensageria com plataformas analíticas digitais.",
+      "descriptionEn": "Integration of industrial SCADA systems, PLCs, automation protocols, and message buses with digital analytics platforms.",
+      "responsibilities": [
+        "Mapeamento de tags e variáveis de processo em controladores industriais.",
+        "Integração de telemetria de campo com bancos de dados temporais (Time-Series) e dashboards de supervisão.",
+        "Elaboração de diagramas lógicos, arquiteturas de comunicação e especificações técnicas de automação.",
+        "Suporte à comissionamento de sistemas digitais em campo."
+      ],
+      "requirements": [
+        "Formação técnica ou superior em Automação Industrial, Mecatrônica ou Engenharia Elétrica/Controle.",
+        "Conhecimento prático de protocolos industriais (Modbus, OPC UA, MQTT).",
+        "Experiência em configuração de SCADA e ferramentas de telemetria."
+      ],
+      "preferred_skills": [
+        "OPC UA",
+        "Modbus",
+        "MQTT",
+        "SCADA",
+        "Industrial Networks"
+      ],
+      "technical_skills": [
+        "Automation",
+        "SCADA",
+        "PLCs",
+        "Modbus",
+        "Systems Integration"
+      ],
+      "education_required": "Graduação ou Tecnólogo em Automação, Mecatrônica ou Engenharia",
+      "assessment_profile": "SOFTWARE",
+      "assessment_threshold": 70,
+      "status": "OPEN",
+      "is_demo": true,
+      "created_at": "2026-03-22T13:00:00.000Z",
+      "updated_at": "2026-09-14T10:00:00.000Z"
+    },
+    {
+      "id": "eng-env-spec",
+      "title": "Senior Environmental Engineer & PRAD Lead",
+      "titleEn": "Senior Environmental Engineer & PRAD Lead",
+      "department": "Engenharia Ambiental & Restauração",
+      "division": "Kraefegg M.O.",
+      "category": "ENVIRONMENT & ESG",
+      "location": "Belo Horizonte, MG / Campo",
+      "work_mode": "FIELD",
+      "employment_type": "FULL_TIME",
+      "seniority": "SENIOR",
+      "description": "Coordenação técnica de projetos de recuperação de áreas degradadas (PRAD), contenção hidrológica de voçorocas, licenciamento ambiental de grande porte e perícias técnicas.",
+      "descriptionEn": "Technical coordination of PRAD land restoration projects, gully erosion containment, large-scale environmental licensing, and technical forensics.",
+      "responsibilities": [
+        "Elaboração e condução de PRADs complexos em áreas de mineração e infraestrutura linear.",
+        "Dimensionamento de sistemas de drenagem superficial, dissipadores de energia e biomantas para estabilização de encostas.",
+        "Gestão de processos de licenciamento ambiental (LP/LI/LO) e cumprimento de condicionantes regulatórias.",
+        "Supervisão técnica de programas de monitoramento de qualidade de água subterrânea e superficial."
+      ],
+      "requirements": [
+        "Graduação em Engenharia Ambiental com registro ativo no CREA/CONFEA.",
+        "7+ anos de experiência comprovada em projetos de campo, PRAD e licenciamento de mineração/infraestrutura.",
+        "Domínio da legislação ambiental federal e estadual (CONAMA, IBAMA, órgãos estaduais)."
+      ],
+      "professional_registration_required": "CREA/CONFEA Ativo",
+      "preferred_skills": [
+        "PRAD",
+        "EIA/RIMA",
+        "Hydrology Modeling",
+        "CONAMA 430",
+        "GIS"
+      ],
+      "technical_skills": [
+        "Environmental Engineering",
+        "PRAD",
+        "Licensing",
+        "Erosion Control",
+        "Forensics"
+      ],
+      "education_required": "Bacharelado em Engenharia Ambiental (Pós-graduação desejável)",
+      "assessment_profile": "ENVIRONMENTAL_ENGINEERING",
+      "assessment_threshold": 70,
+      "status": "OPEN",
+      "is_demo": true,
+      "created_at": "2026-03-02T09:00:00.000Z",
+      "updated_at": "2026-09-14T10:00:00.000Z"
+    },
+    {
+      "id": "eng-civ-lead",
+      "title": "Senior Structural & Geotechnical Civil Engineer",
+      "titleEn": "Senior Structural & Geotechnical Civil Engineer",
+      "department": "Engenharia Civil & Infraestrutura",
+      "division": "Kraefegg M.O.",
+      "category": "ENGINEERING",
+      "location": "São Paulo, SP / Belo Horizonte, MG",
+      "work_mode": "HYBRID",
+      "employment_type": "FULL_TIME",
+      "seniority": "SENIOR",
+      "description": "Projetos executivos de estruturas de concreto armado e fundações especiais para usinas solares, subestações de alta tensão e contenções de encostas e taludes.",
+      "descriptionEn": "Executive design of reinforced concrete structures and specialized foundations for solar utility plants, high-voltage substations, and slope stability retaining walls.",
+      "responsibilities": [
+        "Cálculo e dimensionamento estrutural conforme ABNT NBR 6118 e normas geotécnicas pertinentes.",
+        "Interpretação de laudos de sondagem (SPT/CPTu) e especificação de fundações diretas e profundas.",
+        "Modelagem computacional tridimensional com integração em processos BIM 4D e 5D.",
+        "Acompanhamento técnico de obras e emissão de ARTs de projeto e execução."
+      ],
+      "requirements": [
+        "Graduação em Engenharia Civil com CREA/CONFEA ativo.",
+        "6+ anos de atuação em cálculo estrutural e geotecnia de fundações industriais.",
+        "Domínio de softwares de cálculo (TQS, Eberick, SAP2000 ou similares)."
+      ],
+      "professional_registration_required": "CREA/CONFEA Ativo",
+      "preferred_skills": [
+        "NBR 6118",
+        "BIM 4D/5D",
+        "Plaxis/GeoStudio",
+        "Foundations",
+        "SAP2000"
+      ],
+      "technical_skills": [
+        "Civil Engineering",
+        "Structural Design",
+        "Geotechnics",
+        "BIM",
+        "Foundations"
+      ],
+      "education_required": "Bacharelado em Engenharia Civil",
+      "assessment_profile": "CIVIL_ENGINEERING",
+      "assessment_threshold": 70,
+      "status": "OPEN",
+      "is_demo": true,
+      "created_at": "2026-03-04T11:00:00.000Z",
+      "updated_at": "2026-09-14T10:00:00.000Z"
+    },
+    {
+      "id": "eng-ren-spec",
+      "title": "Renewable Energy & Solar Plants Specialist",
+      "titleEn": "Renewable Energy & Solar Plants Specialist",
+      "department": "Energia Renovável & Transição Energética",
+      "division": "Kraefegg M.O.",
+      "category": "ENERGY",
+      "location": "Campinas, SP / Remoto",
+      "work_mode": "HYBRID",
+      "employment_type": "FULL_TIME",
+      "seniority": "SENIOR",
+      "description": "Engenharia de usinas solares centralizadas de grande porte, usinas solares flutuantes, integração solar para data centers (Tier III/IV) e suprimento elétrico para produção de Hidrogênio Verde.",
+      "descriptionEn": "Engineering of utility-scale solar PV plants, floating solar, dedicated solar for data centers, and renewable power supply for Green Hydrogen electrolysis.",
+      "responsibilities": [
+        "Dimensionamento eletromecânico de usinas fotovoltaicas e sistemas de armazenamento BESS (LFP).",
+        "Modelagem de produção energética com PVSyst, análise de perdas térmicas e sombreamento.",
+        "Estudos de conexão ao Sistema Interligado Nacional (SIN) e requisitos de rede ONS.",
+        "Especificação técnica de inversores centrais, módulos bifaciais e subestações elevadoras."
+      ],
+      "requirements": [
+        "Graduação em Engenharia Elétrica ou Engenharia de Energia com registro profissional.",
+        "5+ anos de experiência sólida em projetos de geração solar fotovoltaica de grande escala.",
+        "Domínio profundo de simulações PVSyst e regulamentação setorial (ANEEL/ONS)."
+      ],
+      "professional_registration_required": "CREA/CONFEA Ativo",
+      "preferred_skills": [
+        "PVSyst",
+        "BESS Systems",
+        "Substations",
+        "Green Hydrogen",
+        "ONS Procedures"
+      ],
+      "technical_skills": [
+        "Solar PV",
+        "Renewable Energy",
+        "BESS",
+        "Electrical Engineering",
+        "PVSyst"
+      ],
+      "education_required": "Bacharelado em Engenharia Elétrica ou Energia",
+      "assessment_profile": "RENEWABLE_ENERGY",
+      "assessment_threshold": 70,
+      "status": "OPEN",
+      "is_demo": true,
+      "created_at": "2026-03-08T14:30:00.000Z",
+      "updated_at": "2026-09-14T10:00:00.000Z"
+    },
+    {
+      "id": "eng-min-lead",
+      "title": "Senior Mining & Geotechnical Safety Engineer",
+      "titleEn": "Senior Mining & Geotechnical Safety Engineer",
+      "department": "Engenharia de Minas & Segurança de Barragens",
+      "division": "Kraefegg M.O.",
+      "category": "MINING & GEOINTELLIGENCE",
+      "location": "Belo Horizonte, MG / Pará",
+      "work_mode": "FIELD",
+      "employment_type": "FULL_TIME",
+      "seniority": "LEAD",
+      "description": "Gestão de segurança de barragens de contenção de rejeitos de mineração, conformidade estrita com a Lei nº 14.066/2020 e ANM, projetos de descaracterização e empilhamento a seco (Dry Stacking).",
+      "descriptionEn": "Mining tailings dam safety management, compliance with Brazilian Dam Safety Law, decommissioning projects, and dry stacking dewatering systems.",
+      "responsibilities": [
+        "Elaboração e auditoria de Planos de Segurança de Barragens (PSB) e PAEBMs.",
+        "Análise de dados de instrumentação geotécnica contínua (piezômetros, medidores de vazão, radares GB-InSAR).",
+        "Modelagem numérica de liquefação estática e estabilidade de taludes.",
+        "Planejamento técnico de transição para empilhamento drenado a seco (Dry Stacking)."
+      ],
+      "requirements": [
+        "Graduação em Engenharia de Minas ou Engenharia Civil com especialização em Geotecnia.",
+        "8+ anos de vivência em operações de mineração e estabilidade de estruturas de rejeito.",
+        "Conhecimento aprofundado das resoluções da ANM e ICOLD."
+      ],
+      "professional_registration_required": "CREA/CONFEA Ativo",
+      "preferred_skills": [
+        "Dam Safety",
+        "Dry Stacking",
+        "FLAC3D/Plaxis",
+        "ANM Legislation",
+        "Geotechnical Radar"
+      ],
+      "technical_skills": [
+        "Mining Engineering",
+        "Dam Geotechnics",
+        "Tailings Management",
+        "Slope Stability"
+      ],
+      "education_required": "Graduação em Engenharia de Minas ou Civil Geotécnica",
+      "assessment_profile": "MINING",
+      "assessment_threshold": 70,
+      "status": "OPEN",
+      "is_demo": true,
+      "created_at": "2026-03-11T10:00:00.000Z",
+      "updated_at": "2026-09-14T10:00:00.000Z"
+    },
+    {
+      "id": "eng-geoai-spec",
+      "title": "GeoAI & Earth Observation Specialist",
+      "titleEn": "GeoAI & Earth Observation Specialist",
+      "department": "Sensoriamento Remoto & GeoAI",
+      "division": "PentaHydra Systems",
+      "category": "MINING & GEOINTELLIGENCE",
+      "location": "Brasília, DF / Remoto",
+      "work_mode": "REMOTE",
+      "employment_type": "FULL_TIME",
+      "seniority": "SPECIALIST",
+      "description": "Processamento orbital multiespectral (Sentinel, Landsat), radar de abertura sintética (SAR), algoritmos de Deep Learning para detecção de mudanças de uso do solo e estimativa de biomassa.",
+      "descriptionEn": "Multispectral orbital processing (Sentinel, Landsat), Synthetic Aperture Radar (SAR), Deep Learning for land use classification, and biomass modeling.",
+      "responsibilities": [
+        "Processamento massivo de séries temporais de satélites ópticos e radar no Google Earth Engine.",
+        "Desenvolvimento de redes neurais profundas (U-Net, SegFormer) para segmentação semântica de ortofotos.",
+        "Cálculo e calibração de índices biofísicos (NDVI, NDRE, NBR, NDWI) para restauração ecológica.",
+        "Integração de dados vetoriais GIS com bancos de dados relacionais espaciais (PostGIS)."
+      ],
+      "requirements": [
+        "Formação superior em Engenharia Cartográfica, Geografia, Engenharia Ambiental ou Computação.",
+        "Domínio avançado de Google Earth Engine (Python API e JavaScript), GDAL, QGIS e PostGIS.",
+        "Experiência prática em Deep Learning aplicado a dados geoespaciais."
+      ],
+      "preferred_skills": [
+        "Google Earth Engine",
+        "SAR Processing",
+        "PostGIS",
+        "PyTorch Geo",
+        "QGIS"
+      ],
+      "technical_skills": [
+        "GeoAI",
+        "Remote Sensing",
+        "Google Earth Engine",
+        "GIS",
+        "Deep Learning",
+        "PostGIS"
+      ],
+      "education_required": "Graduação ou Pós-graduação em área Geoespacial ou Computação",
+      "assessment_profile": "GEOAI",
+      "assessment_threshold": 70,
+      "status": "OPEN",
+      "is_demo": true,
+      "created_at": "2026-03-14T15:00:00.000Z",
+      "updated_at": "2026-09-14T10:00:00.000Z"
+    },
+    {
+      "id": "eng-mar-lead",
+      "title": "Naval & Port Environmental Systems Engineer",
+      "titleEn": "Naval & Port Environmental Systems Engineer",
+      "department": "Engenharia Naval & Inteligência Portuária",
+      "division": "Kraefegg M.O.",
+      "category": "MARITIME & OFFSHORE",
+      "location": "Santos, SP / Rio de Janeiro, RJ",
+      "work_mode": "HYBRID",
+      "employment_type": "FULL_TIME",
+      "seniority": "SENIOR",
+      "description": "Gestão de conformidade com a Convenção MARPOL em complexos portuários, sistemas de vigilância contra derramamento de óleo, Cold Ironing (OPS) e modelagem hidrodinâmica.",
+      "descriptionEn": "MARPOL compliance engineering in seaport complexes, oil spill surveillance systems, Cold Ironing (OPS), and coastal hydrodynamics.",
+      "responsibilities": [
+        "Desenvolvimento e auditoria de planos de conformidade com normas MARPOL (Anexos I a VI).",
+        "Projetos de infraestrutura portuária sustentável e eletrificação de cais (Cold Ironing / OPS).",
+        "Análise de telemetria oceanográfica, correntes de maré e modelagem de dispersão de plumas de dragagem.",
+        "Supervisão técnica de sistemas de vigilância óptica e telemetria de águas portuárias."
+      ],
+      "requirements": [
+        "Graduação em Engenharia Naval, Engenharia Oceânica ou Engenharia Portuária com registro profissional.",
+        "5+ anos de experiência no setor marítimo, terminais portuários ou operadoras de navegação.",
+        "Profundo conhecimento das diretrizes da IMO, DPC e autoridade portuária."
+      ],
+      "professional_registration_required": "CREA/CONFEA Ativo",
+      "preferred_skills": [
+        "MARPOL",
+        "Cold Ironing",
+        "Port Hydrodynamics",
+        "AIS Telemetry",
+        "IMO Standards"
+      ],
+      "technical_skills": [
+        "Naval Engineering",
+        "Port Systems",
+        "MARPOL",
+        "Oceanography",
+        "Cold Ironing"
+      ],
+      "education_required": "Bacharelado em Engenharia Naval ou Oceânica",
+      "assessment_profile": "MARITIME",
+      "assessment_threshold": 70,
+      "status": "OPEN",
+      "is_demo": true,
+      "created_at": "2026-03-16T12:00:00.000Z",
+      "updated_at": "2026-09-14T10:00:00.000Z"
+    },
+    {
+      "id": "eng-esg-spec",
+      "title": "ESG, Carbon & Regulatory Compliance Specialist",
+      "titleEn": "ESG, Carbon & Regulatory Compliance Specialist",
+      "department": "Consultoria ESG & Sustentabilidade Corporativa",
+      "division": "Kraefegg M.O.",
+      "category": "ENVIRONMENT & ESG",
+      "location": "São Paulo, SP / Remoto",
+      "work_mode": "REMOTE",
+      "employment_type": "FULL_TIME",
+      "seniority": "SPECIALIST",
+      "description": "Elaboração de inventários corporativos de gases de efeito estufa (GHG Protocol Escopos 1, 2 e 3), matrizes de dupla materialidade (CSRD/GRI), frameworks TCFD e auditoria de combate a greenwashing.",
+      "descriptionEn": "Corporate GHG accounting (Scope 1, 2, 3), double materiality matrices (CSRD/GRI), TCFD disclosure frameworks, and anti-greenwashing auditing.",
+      "responsibilities": [
+        "Estruturação de inventários de emissões corporativas de carbono conforme GHG Protocol.",
+        "Condução de avaliações de Dupla Materialidade e alinhamento com padrões GRI e IFRS S1/S2.",
+        "Auditoria de programas de integridade e governança socioambiental para cadeias de fornecedores.",
+        "Desenvolvimento de estratégias de descarbonização e transição energética para clientes corporativos."
+      ],
+      "requirements": [
+        "Formação superior em Engenharia, Economia, Administração ou Gestão Ambiental.",
+        "5+ anos de vivência executiva em consultoria ESG ou sustentabilidade corporativa.",
+        "Conhecimento aprofundado dos protocolos GHG, TCFD, IFRS e diretivas CSRD."
+      ],
+      "preferred_skills": [
+        "GHG Protocol",
+        "CSRD / GRI",
+        "TCFD",
+        "Carbon Accounting",
+        "Double Materiality"
+      ],
+      "technical_skills": [
+        "ESG Strategy",
+        "Carbon Accounting",
+        "Governance",
+        "Materiality",
+        "TCFD"
+      ],
+      "education_required": "Graduação e Especialização em Sustentabilidade / Gestão",
+      "assessment_profile": "ESG",
+      "assessment_threshold": 70,
+      "status": "OPEN",
+      "is_demo": true,
+      "created_at": "2026-03-19T11:00:00.000Z",
+      "updated_at": "2026-09-14T10:00:00.000Z"
+    },
+    {
+      "id": "eng-for-auditor",
+      "title": "Environmental Forensic Specialist & Due Diligence Auditor",
+      "titleEn": "Environmental Forensic Specialist & Due Diligence Auditor",
+      "department": "Perícia Técnica & Auditoria Ambiental",
+      "division": "Kraefegg M.O.",
+      "category": "FORENSICS & AUDITING",
+      "location": "Curitiba, PR / São Paulo, SP",
+      "work_mode": "HYBRID",
+      "employment_type": "FULL_TIME",
+      "seniority": "SENIOR",
+      "description": "Auditorias ambientais de conformidade legal (ISO 14001), perícias técnicas judiciais e Due Diligence de passivos ambientais em fusões e aquisições industriais segundo a norma ASTM E1527-21.",
+      "descriptionEn": "Environmental compliance audits (ISO 14001), judicial technical forensics, and Phase I/II M&A environmental due diligence under ASTM E1527-21 standards.",
+      "responsibilities": [
+        "Condução de auditorias de conformidade legal ambiental e Due Diligence de Fase I e II.",
+        "Elaboração de laudos periciais judiciais fundamentados com rigor probatório e cadeia de custódia.",
+        "Investigação de passivos de solo e águas subterrâneas contaminadas por hidrocarbonetos e metais.",
+        "Valoração econômica de danos e serviços ecossistêmicos para subsídio a defesas técnicas e termos de ajustamento de conduta."
+      ],
+      "requirements": [
+        "Graduação em Engenharia Ambiental, Engenharia Química, Geologia ou Perícia Ambiental.",
+        "6+ anos de atuação comprovada em perícia técnica e auditoria ambiental industrial.",
+        "Registro profissional no respectivo conselho de classe e formação em cadeia de custódia."
+      ],
+      "professional_registration_required": "CREA/CRQ Ativo",
+      "preferred_skills": [
+        "ASTM E1527-21",
+        "ISO 14001 Auditing",
+        "Judicial Forensics",
+        "Chain of Custody"
+      ],
+      "technical_skills": [
+        "Environmental Forensics",
+        "Due Diligence",
+        "Auditing",
+        "ASTM Standards",
+        "Compliance"
+      ],
+      "education_required": "Graduação em Engenharia ou Geologia (Pós-graduação em Perícia)",
+      "assessment_profile": "FORENSICS_AUDIT",
+      "assessment_threshold": 70,
+      "status": "OPEN",
+      "is_demo": true,
+      "created_at": "2026-03-21T09:00:00.000Z",
+      "updated_at": "2026-09-14T10:00:00.000Z"
+    },
+    {
+      "id": "eng-pm-lead",
+      "title": "Technical Project Manager & Program Lead",
+      "titleEn": "Technical Project Manager & Program Lead",
+      "department": "Gestão de Projetos & PMO Multidisciplinar",
+      "division": "Kraefegg M.O.",
+      "category": "PROJECTS & BUSINESS",
+      "location": "São Paulo, SP / Remoto",
+      "work_mode": "HYBRID",
+      "employment_type": "FULL_TIME",
+      "seniority": "LEAD",
+      "description": "Gestão integrada de projetos multidisciplinares de engenharia pesada e desenvolvimento tecnológico ágil, controle de cronograma de caminho crítico, valor agregado (EVM) e contratos EPC.",
+      "descriptionEn": "Integrated management of multidisciplinary heavy engineering and agile tech development, critical path scheduling, EVM budget control, and EPC contracts.",
+      "responsibilities": [
+        "Estruturação de EAPs, cronogramas de caminho crítico e matrizes quantitativas de risco (FMEA).",
+        "Controle de desempenho financeiro e físico de projetos via Gestão do Valor Agregado (EVM).",
+        "Gestão de interfaces multidisciplinares entre equipes de campo (engenharia civil/ambiental) e tecnologia (software/IA).",
+        "Acompanhamento contratual de escopo, alterações e entregáveis técnicos com clientes."
+      ],
+      "requirements": [
+        "Graduação em Engenharia com certificação PMP ou equivalente em gestão de projetos.",
+        "7+ anos de experiência liderando projetos complexos de engenharia ou tecnologia industrial.",
+        "Domínio de ferramentas de gestão (MS Project, Primavera, Jira) e métodos ágeis/Stage-Gate."
+      ],
+      "preferred_skills": [
+        "PMP Certification",
+        "EVM Management",
+        "EPC Contracts",
+        "Critical Path Method",
+        "Risk Matrix"
+      ],
+      "technical_skills": [
+        "Project Management",
+        "EVM",
+        "Risk Management",
+        "Contracts",
+        "Team Leadership"
+      ],
+      "education_required": "Bacharelado em Engenharia com PMP/MBA",
+      "assessment_profile": "PROJECT_MANAGEMENT",
+      "assessment_threshold": 70,
+      "status": "OPEN",
+      "is_demo": true,
+      "created_at": "2026-03-24T14:00:00.000Z",
+      "updated_at": "2026-09-14T10:00:00.000Z"
+    },
+    {
+      "id": "eng-forestry-lead",
+      "title": "Forestry Engineer & Carbon Inventory Lead",
+      "titleEn": "Forestry Engineer & Carbon Inventory Lead",
+      "department": "Engenharia Florestal & Créditos de Carbono",
+      "division": "Kraefegg M.O.",
+      "category": "FORESTRY & AGRICULTURE",
+      "location": "Belém, PA / Campo Amazônia",
+      "work_mode": "FIELD",
+      "employment_type": "FULL_TIME",
+      "seniority": "SENIOR",
+      "description": "Inventários florestais de alta precisão, modelagem alométrica de carbono florestal (AGB) segundo padrões internacionais (Verra VCS/ART TREES) e manejo florestal sustentável.",
+      "descriptionEn": "High-precision forest inventories, allometric biomass carbon modeling (AGB) under international standards (Verra VCS/ART TREES), and sustainable forest management.",
+      "responsibilities": [
+        "Planejamento e coordenação de inventários florestais contínuos em biomas tropicais.",
+        "Ajuste de equações alométricas de biomassa e estimativa auditável de estoques de carbono.",
+        "Elaboração de projetos de restauração florestal nativa e planos de manejo de baixo impacto.",
+        "Auditoria de salvaguardas socioambientais e integridade de créditos de carbono florestal."
+      ],
+      "requirements": [
+        "Graduação em Engenharia Florestal com registro profissional ativo no CREA.",
+        "6+ anos de experiência em inventários de campo na Amazônia ou Mata Atlântica.",
+        "Conhecimento aprofundado dos padrões Verra VCS, CCB Standards e metodologias de carbono."
+      ],
+      "professional_registration_required": "CREA/CONFEA Ativo",
+      "preferred_skills": [
+        "Forest Inventory",
+        "Verra VCS",
+        "Allometric Equations",
+        "Dendrometry",
+        "Biomass Carbon"
+      ],
+      "technical_skills": [
+        "Forestry Engineering",
+        "Carbon Accounting",
+        "Dendrometry",
+        "Field Inventory",
+        "Ecology"
+      ],
+      "education_required": "Bacharelado em Engenharia Florestal",
+      "assessment_profile": "FORESTRY",
+      "assessment_threshold": 70,
+      "status": "OPEN",
+      "is_demo": true,
+      "created_at": "2026-03-25T10:30:00.000Z",
+      "updated_at": "2026-09-14T10:00:00.000Z"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cand-1789409305245-ok2owe",
+      "full_name": "Lucas Arruda Silveira",
+      "email": "lucas.silveira@example.com",
+      "linkedin_url": "https://www.linkedin.com/in/lucas-silveira",
+      "country": "Brasil",
+      "consent": true,
+      "created_at": "2026-09-14T18:08:25.245Z"
+    },
+    {
+      "id": "cand-1789409315986-3b5hvc",
+      "full_name": "Teste Lock Retake",
+      "email": "lock.test@example.com",
+      "linkedin_url": "https://www.linkedin.com/in/lock-test",
+      "country": "Brasil",
+      "consent": true,
+      "created_at": "2026-09-14T18:08:35.986Z"
+    }
+  ],
+  "applications": [
+    {
+      "id": "app-1789409315986-w13w0y",
+      "candidate_id": "cand-1789409315986-3b5hvc",
+      "job_id": "ph-ai-eng",
+      "candidate": {
+        "id": "cand-1789409315986-3b5hvc",
+        "full_name": "Teste Lock Retake",
+        "email": "lock.test@example.com",
+        "linkedin_url": "https://www.linkedin.com/in/lock-test",
+        "country": "Brasil",
+        "consent": true,
+        "created_at": "2026-09-14T18:08:35.986Z"
+      },
+      "job_title": "AI Solutions & Systems Engineer",
+      "department": "Inteligência Artificial & Agentes Autônomos",
+      "division": "PentaHydra Systems",
+      "linkedin_url": "https://www.linkedin.com/in/lock-test",
+      "application_status": "BELOW_THRESHOLD",
+      "assessment_status": "RETAKE_LOCKED",
+      "assessment_profile": "AI_ENGINEERING",
+      "best_score": 0,
+      "latest_score": 0,
+      "latest_correct": 0,
+      "total_questions": 6,
+      "attempt_count": 1,
+      "last_attempt_at": "2026-09-14T18:08:39.322Z",
+      "next_attempt_at": "2026-09-15T18:08:39.322Z",
+      "can_retake": false,
+      "submitted_at": "2026-09-14T18:08:35.986Z",
+      "created_at": "2026-09-14T18:08:35.986Z",
+      "updated_at": "2026-09-14T18:08:42.016Z",
+      "email_status": "SENT",
+      "attempts": [
+        {
+          "id": "att-1789409319322-1",
+          "application_id": "app-1789409315986-w13w0y",
+          "attempt_number": 1,
+          "started_at": "2026-09-14T18:08:39.322Z",
+          "completed_at": "2026-09-14T18:08:39.322Z",
+          "score": 0,
+          "correct_answers": 0,
+          "total_questions": 6,
+          "status": "COMPLETED",
+          "created_at": "2026-09-14T18:08:39.322Z"
+        }
+      ],
+      "audit_logs": [],
+      "email_sent_at": "2026-09-14T18:08:39.323Z"
+    },
+    {
+      "id": "app-1789409305245-lrbdnf",
+      "candidate_id": "cand-1789409305245-ok2owe",
+      "job_id": "ph-ai-eng",
+      "candidate": {
+        "id": "cand-1789409305245-ok2owe",
+        "full_name": "Lucas Arruda Silveira",
+        "email": "lucas.silveira@example.com",
+        "linkedin_url": "https://www.linkedin.com/in/lucas-silveira",
+        "country": "Brasil",
+        "consent": true,
+        "created_at": "2026-09-14T18:08:25.245Z"
+      },
+      "job_title": "AI Solutions & Systems Engineer",
+      "department": "Inteligência Artificial & Agentes Autônomos",
+      "division": "PentaHydra Systems",
+      "linkedin_url": "https://www.linkedin.com/in/lucas-silveira",
+      "application_status": "UNDER_REVIEW",
+      "assessment_status": "COMPLETED",
+      "assessment_profile": "AI_ENGINEERING",
+      "best_score": 83.33,
+      "latest_score": 83.33,
+      "latest_correct": 5,
+      "total_questions": 6,
+      "attempt_count": 1,
+      "last_attempt_at": "2026-09-14T18:08:29.265Z",
+      "next_attempt_at": null,
+      "can_retake": true,
+      "submitted_at": "2026-09-14T18:08:25.245Z",
+      "created_at": "2026-09-14T18:08:25.245Z",
+      "updated_at": "2026-09-14T18:08:29.265Z",
+      "email_status": "SENT",
+      "attempts": [
+        {
+          "id": "att-1789409309265-1",
+          "application_id": "app-1789409305245-lrbdnf",
+          "attempt_number": 1,
+          "started_at": "2026-09-14T18:08:29.265Z",
+          "completed_at": "2026-09-14T18:08:29.265Z",
+          "score": 83.33,
+          "correct_answers": 5,
+          "total_questions": 6,
+          "status": "COMPLETED",
+          "created_at": "2026-09-14T18:08:29.265Z"
+        }
+      ],
+      "audit_logs": [],
+      "email_sent_at": "2026-09-14T18:08:29.289Z"
+    }
+  ],
+  "talent_pool": [],
+  "audit_logs": [
+    {
+      "id": "audit-1789409319323-d6pua4",
+      "action": "email_sent",
+      "details": "Recruitment email dispatched successfully for application app-1789409315986-w13w0y",
+      "timestamp": "2026-09-14T18:08:39.323Z",
+      "actor": "system"
+    },
+    {
+      "id": "audit-1789409319322-n9cwj9",
+      "action": "score_calculated",
+      "details": "Assessment evaluated for Teste Lock Retake: 0/6 correct (0%) - Status: BELOW_THRESHOLD",
+      "timestamp": "2026-09-14T18:08:39.322Z",
+      "actor": "lock.test@example.com"
+    },
+    {
+      "id": "audit-1789409319322-5ak0xv",
+      "action": "retake_locked",
+      "details": "24-hour retake lock activated for lock.test@example.com until 2026-09-15T18:08:39.322Z",
+      "timestamp": "2026-09-14T18:08:39.322Z",
+      "actor": "system"
+    },
+    {
+      "id": "audit-1789409315986-84o4kc",
+      "action": "application_created",
+      "details": "Application created for Teste Lock Retake (lock.test@example.com) on position AI Solutions & Systems Engineer",
+      "timestamp": "2026-09-14T18:08:35.986Z",
+      "actor": "lock.test@example.com"
+    },
+    {
+      "id": "audit-1789409309289-k3dfbb",
+      "action": "email_sent",
+      "details": "Recruitment email dispatched successfully for application app-1789409305245-lrbdnf",
+      "timestamp": "2026-09-14T18:08:29.289Z",
+      "actor": "system"
+    },
+    {
+      "id": "audit-1789409309265-3tbuv9",
+      "action": "score_calculated",
+      "details": "Assessment evaluated for Lucas Arruda Silveira: 5/6 correct (83.33%) - Status: UNDER_REVIEW",
+      "timestamp": "2026-09-14T18:08:29.265Z",
+      "actor": "lucas.silveira@example.com"
+    },
+    {
+      "id": "audit-1789409305245-5hhbof",
+      "action": "application_created",
+      "details": "Application created for Lucas Arruda Silveira (lucas.silveira@example.com) on position AI Solutions & Systems Engineer",
+      "timestamp": "2026-09-14T18:08:25.245Z",
+      "actor": "lucas.silveira@example.com"
+    }
+  ],
+  "settings": {
+    "questions_per_assessment": 6,
+    "retake_wait_hours": 24,
+    "assessment_threshold": 70,
+    "candidate_data_retention_days": 730
+  }
+}
